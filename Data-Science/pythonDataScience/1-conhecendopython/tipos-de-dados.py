@@ -1,0 +1,5 @@
+print(11 * 4)
+print(1.5 + 1.0)
+print("Quarenta e quatro")
+print(True)
+print(False)
